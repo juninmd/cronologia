@@ -6,3 +6,11 @@
 
 ---
 
+## 2016-03-31 - [fatec-c-lista-duplamente-encadeada](https://github.com/juninmd/fatec-c-lista-duplamente-encadeada)
+**Language:** C | **Rank:** ?/10
+
+> No story available.
+
+
+---
+
